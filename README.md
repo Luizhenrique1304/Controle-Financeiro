@@ -19,15 +19,17 @@ Um projeto simples em Python para ajudar no controle de despesas e receitas pess
 
 ## Como Executar
 
-1.Clone o Repositório
+-1.Clone o Repositório
     ```bash
     git clone https://github.com/Luizhenrique1304/Controle-Financeiro.git
     ```
-2.Instale as Dependências
+
+-2.Instale as Dependências
     ```bash
     pip install pandas matplotlib
     ```
-3.Execute o Programa
+
+-3.Execute o Programa
     ```bash
     controle_financeiro.py
     ```
